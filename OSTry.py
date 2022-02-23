@@ -27,6 +27,7 @@ def Paths_Get():
 
 def Mainline():
     ConsoleClear()  #Clear all output in console.
+    print("Version 1")
     Paths_Get()
     return()  # End of function: Mainline.
         
